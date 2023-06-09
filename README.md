@@ -32,39 +32,25 @@ def abhinav():
     code = ["Python"]
     technologies = {
         "python": ["sklearn", "Tensorflow", "Keras", "Pandas"],
-        "devOps": ["AWS", "Docker🐳", "Kubernetes"],
-        "databases": ["MariaDB", "MySql", "H2", "Oracle"],
-        "visualization": ["Matplotlib", "Seaborn", "Plotly"]
+        "devOps": ["Docker🐳", "Kubernetes"],
+        "databases": ["MySql"],
+        "visualization": ["Matplotlib", "Seaborn", "Plotly"],
+    }
+    skills = {
+        "data_integration": "ETL (Extract, Transform, Load) processes",
+        "data_modeling": "Data modeling and database design",
+        "databases": ["SQL", "NoSQL"],
+        "data_warehousing": "Data warehousing and data lakes",
+        "data_quality": "Data quality assessment and validation",
+        "programming": ["Python", "SQL"],
+        "big_data": "Big data technologies (Hadoop, Spark, etc.)",
+        "cloud_platforms": ["AWS"],
+        "visualization_tools": ["Tableau", "Power BI"],
     }
     currentFocus = "improving data analytical skills"
 
 ```
-<!--
-### 💼 Professional Experience
 
-- [Company Name](https://www.example.com) - Data Engineer | [Location] | [Year] - Present
-  - Develop and maintain data pipelines for efficient data ingestion and processing.
-  - Design and implement ETL processes to transform raw data into usable formats.
-  - Perform data modeling and database design to support analytical and reporting needs.
-  - Collaborate with cross-functional teams to ensure data quality and integrity.
-
-- [Company Name](https://www.example.com) - Data Analyst | [Location] | [Year] - [Year]
-  - Conducted data analysis to identify trends, patterns, and insights.
-  - Developed and optimized SQL queries for data extraction and analysis.
-  - Created dashboards and visualizations to communicate data findings.
-
-### 🚀 Skills
-
-- Data integration and ETL (Extract, Transform, Load) processes.
-- Data modeling and database design.
-- SQL and NoSQL databases.
-- Data warehousing and data lakes.
-- Data quality assessment and validation.
-- Python and SQL programming.
-- Big data technologies (Hadoop, Spark, etc.).
-- Cloud platforms (AWS).
-- Data visualization tools (Tableau, Power BI, etc.).
--->
 ### 📊 Recent Projects
 
 - [Project Name 1](link/to/project1): Description of the project and your role.
