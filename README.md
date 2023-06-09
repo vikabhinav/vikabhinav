@@ -2,23 +2,6 @@
 
 ## Hey there, I'm <span style="font-size:1em;color: #009999">Abhinav</span>👋
 
-<!--
-**vikabhinav/vikabhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vikabhinav)
 [![Email](https://img.shields.io/badge/Email-Send%20a%20Message-red?logo=gmail)](mailto:abhinav.vix@gmail.com)
 
@@ -54,7 +37,7 @@ def abhinav():
 ### 📊 Recent Projects
 
 - [Project Name 1](link/to/project1): Description of the project and your role.
-- 
+
 <p>
 <a href="https://github.com/vikabhinav/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikabhinav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -64,6 +47,11 @@ def abhinav():
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikabhinav&show_icons=true&langs_count=10&layout=compact&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
 </p>
+
+<p>
+<a href="https://github.com/vikabhinav/quesion-answer-pairs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=vikabhinav&repo=quesion-answer-pairs&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;&nbsp;
 
 ### 📬 Get in Touch
 
