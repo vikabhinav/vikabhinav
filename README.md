@@ -39,7 +39,7 @@ def abhinav():
     currentFocus = "improving data analytical skills"
 
 ```
-
+<!--
 ### 💼 Professional Experience
 
 - [Company Name](https://www.example.com) - Data Engineer | [Location] | [Year] - Present
@@ -64,7 +64,7 @@ def abhinav():
 - Big data technologies (Hadoop, Spark, etc.).
 - Cloud platforms (AWS).
 - Data visualization tools (Tableau, Power BI, etc.).
-
+-->
 ### 📊 Recent Projects
 
 - [Project Name 1](link/to/project1): Description of the project and your role.
