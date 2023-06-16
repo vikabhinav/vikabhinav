@@ -65,7 +65,7 @@ def abhinav():
          
 ### 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikabhinav/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vikabhinav/)
 - Email: [abhinav.vix@gmail.com]
 
 Feel free to reach out to me for any collaboration opportunities or discussions related to data engineering and analytics!
