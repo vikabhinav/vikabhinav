@@ -36,7 +36,7 @@ def abhinav():
 
 ### 📊 Recent Projects
 
-- [Project Name 1](link/to/project1): Description of the project and your role.
+<!-- [Project Name 1](link/to/project1): Description of the project and your role.-->
 
 <p>
 <a href="https://github.com/vikabhinav/">
